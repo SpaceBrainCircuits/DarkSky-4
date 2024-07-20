@@ -1,1 +1,12 @@
-This firmware version fixes realtime messaging midi issues. Added version display on startup while holding shift button.
+This firmware version does the following:
+
+1. When Decay knob is fully CCW, this will disable the decay stage of the ADSR envelope, eliminating the popping sound.
+2. Added CC messaging for the following controls.
+	Portamento - CC5
+	Detune - CC16
+	Attack - CC17
+	Decay - CC18
+	Sustain - CC19
+	Release - CC20
+	Breath Control - CC2
+	Breath Control LSB - CC34
