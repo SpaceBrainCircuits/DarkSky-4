@@ -1,0 +1,1 @@
+This firmware version fixes realtime messaging midi issues. Added version display on startup while holding shift button.
