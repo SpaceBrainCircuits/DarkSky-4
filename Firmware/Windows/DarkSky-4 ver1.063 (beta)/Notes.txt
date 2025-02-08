@@ -9,4 +9,3 @@ This firmware version does the following:
 	Sustain - CC19
 	Release - CC20
 	Breath Control - CC2
-	Breath Control LSB - CC34
