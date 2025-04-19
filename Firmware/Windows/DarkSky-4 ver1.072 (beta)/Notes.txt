@@ -1,0 +1,12 @@
+This firmware version does the following:
+
+1. Added breathSmoothing optimization for NuEVI
+2. Moved Velocity control from sustain stage to decay stage
+	Velocity Sensitivity: 0 (default) => Velocity Ignored (fixed 127)
+	Velocity Sensitivity: 1 => Normal Sensitivity (max amount at 127)
+	Velocity Sensitivity: 2 => High Sensitivity (max amount at 64)
+3. Added CC implementation for Number of Voices, Poly/ Mono Modes, Gate Modes
+4. Added Breath Smoothing adjustments by Sysex
+5. Fixed Aftertouch bug
+
+	
