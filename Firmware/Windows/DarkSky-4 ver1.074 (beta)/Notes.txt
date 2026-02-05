@@ -9,5 +9,6 @@ This firmware version does the following:
 4. Added Breath Smoothing adjustments by Sysex
 5. Fixed Aftertouch bug
 6. Fixed ADSR stage latency issue
+7. Added pedal sustain CC
 
 	
