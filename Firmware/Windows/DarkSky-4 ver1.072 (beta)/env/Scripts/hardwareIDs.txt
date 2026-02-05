@@ -1,2 +1,0 @@
-VID: 0x04D8
-BPID: 0xE6F3
