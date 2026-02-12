@@ -1,6 +1,6 @@
 This firmware version does the following:
 
-1. Added breathSmoothing optimization for NuEVI
+1. Added High Resolution breath in place of breath smoothing
 2. Moved Velocity control from sustain stage to decay stage
 	Velocity Sensitivity: 0 (default) => Velocity Ignored (fixed 127)
 	Velocity Sensitivity: 1 => Normal Sensitivity (max amount at 127)
