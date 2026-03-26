@@ -6,7 +6,9 @@ This firmware version does the following:
 	Velocity Sensitivity: 1 => Normal Sensitivity (max amount at 127)
 	Velocity Sensitivity: 2 => High Sensitivity (max amount at 64)
 3. Added CC implementation for Number of Voices, Poly/ Mono Modes, Gate Modes
-4. Added Breath Smoothing adjustments by Sysex
+4. Added Breath Smoothing adjustments by Sysex   
+      Lower Sensitivity -> Smoother, Slower (1, 2, 3 ...)
+      Higher Sensitivity -> Faster, Precise (... 18, 19, 20)
 5. Fixed Aftertouch bug
 6. Fixed ADSR stage latency issue
 7. Added pedal sustain CC
